@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Robotics Club TU'
+
+
+theme = 'hugo-PaperMod'
